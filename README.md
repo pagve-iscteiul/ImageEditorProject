@@ -1,1 +1,1 @@
-# IPProject
+# ImageEditorProject
